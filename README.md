@@ -21,5 +21,3 @@ Hola! Soy Cristian, un estudiante de DAW (Grado superior de Desarrollo de Aplica
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cristiaan.dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-# JS-DAW-2023-practicas-CRISTIAN-IAKAB
