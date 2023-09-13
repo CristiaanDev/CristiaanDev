@@ -21,6 +21,7 @@ Some of my hobbies:
 # 📊 GitHub Stats: <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cristiaan.dev&theme=dark&hide_border=false)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristiaanDev&show_icons=true&theme=radical)
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CristiaanDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=Cristiaan.dev&icon=0&color=0)](https://visitcount.itsvg.in)
